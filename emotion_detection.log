@@ -1,0 +1,12 @@
+2025-03-25 12:38:47,240 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 12:38:47,246 - ERROR - Model loading failed: Model file not found at emotion_model.h5
+2025-03-25 15:32:01,267 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 15:32:02,144 - INFO - Models loaded successfully
+2025-03-25 15:32:02,175 - WARNING - Criminal database not found at criminal_database.csv
+2025-03-25 15:32:02,175 - ERROR - Fatal error loading criminal database: Criminal database file not found
+2025-03-25 15:32:02,175 - ERROR - Face recognition initialization failed: Criminal database file not found
+2025-03-25 15:33:20,207 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 15:33:20,942 - INFO - Models loaded successfully
+2025-03-25 15:33:20,973 - WARNING - Criminal database not found at criminal_database.csv
+2025-03-25 15:33:20,973 - ERROR - Fatal error loading criminal database: Criminal database file not found
+2025-03-25 15:33:20,973 - ERROR - Face recognition initialization failed: Criminal database file not found

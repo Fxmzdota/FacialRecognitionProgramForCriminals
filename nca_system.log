@@ -1,0 +1,85 @@
+
+
+=== Session Started 2025-03-25 12:38:47.210358 ===
+2025-03-25 12:38:47.248134 - Initialization failed: Model file not found at emotion_model.h5
+2025-03-25 12:41:42,982 - INFO - Database initialized successfully
+2025-03-25 12:41:42,986 - WARNING - Emotion detector module not available - facial recognition features disabled
+2025-03-25 12:43:02,343 - INFO - Database initialized successfully
+2025-03-25 12:43:02,344 - WARNING - Emotion model not found - facial recognition features will be limited
+2025-03-25 12:43:38,704 - ERROR - GUI error: MainApplication.__init__() takes 3 positional arguments but 4 were given
+2025-03-25 12:43:44,794 - INFO - System shutdown completed
+2025-03-25 12:47:43,575 - INFO - Database initialized successfully
+2025-03-25 12:47:43,576 - WARNING - Emotion model not found - facial recognition features will be limited
+2025-03-25 12:48:08,223 - ERROR - GUI error: MainApplication.__init__() takes 3 positional arguments but 4 were given
+2025-03-25 12:48:18,357 - INFO - System shutdown completed
+2025-03-25 12:56:13,189 - INFO - Database initialized successfully
+2025-03-25 12:56:13,190 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 12:56:14,130 - INFO - Models loaded successfully
+2025-03-25 12:56:14,131 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 12:56:58,624 - ERROR - GUI error: MainApplication.__init__() takes 3 positional arguments but 4 were given
+2025-03-25 12:57:01,245 - INFO - System shutdown completed
+2025-03-25 13:07:27,032 - INFO - Database initialized successfully
+2025-03-25 13:07:27,033 - INFO - Face recognition initialized successfully
+2025-03-25 13:07:27,036 - WARNING - Emotion detector module not available
+2025-03-25 13:07:45,312 - INFO - System shutdown completed
+2025-03-25 13:08:30,158 - INFO - Database initialized successfully
+2025-03-25 13:08:30,160 - INFO - Face recognition initialized successfully
+2025-03-25 13:08:30,162 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 13:08:30,889 - INFO - Models loaded successfully
+2025-03-25 13:08:30,890 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 13:09:39,114 - ERROR - GUI initialization error: MainApplication.__init__() got an unexpected keyword argument 'face_recognizer'
+2025-03-25 13:09:43,519 - INFO - System shutdown completed
+2025-03-25 13:30:12,529 - INFO - Database initialized successfully
+2025-03-25 13:30:12,537 - WARNING - No criminal database found. Starting fresh.
+2025-03-25 13:30:12,539 - INFO - Face recognition system initialized successfully
+2025-03-25 13:30:12,540 - INFO - Face recognition initialized successfully
+2025-03-25 13:30:24,349 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 13:30:25,298 - INFO - Models loaded successfully
+2025-03-25 13:30:25,298 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 13:38:55,210 - INFO - Database initialized successfully
+2025-03-25 13:38:55,210 - WARNING - No criminal database found. Starting fresh.
+2025-03-25 13:38:55,210 - INFO - Face recognition system initialized successfully
+2025-03-25 13:38:55,210 - INFO - Face recognition initialized successfully
+2025-03-25 13:39:05,625 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 13:39:06,415 - INFO - Models loaded successfully
+2025-03-25 13:39:06,415 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 14:17:55,257 - INFO - Database initialized successfully
+2025-03-25 14:17:55,299 - WARNING - Criminal database not found at criminal_database.csv
+2025-03-25 14:17:55,299 - WARNING - Face recognition initialized with empty database
+2025-03-25 14:17:55,299 - INFO - Face recognition system ready
+2025-03-25 14:17:55,299 - INFO - Face recognition initialized successfully
+2025-03-25 14:18:07,290 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 14:18:08,182 - INFO - Models loaded successfully
+2025-03-25 14:18:08,182 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 14:18:37,519 - ERROR - GUI initialization error: 'MainApplication' object has no attribute 'setup_main_window'
+2025-03-25 15:38:34,055 - INFO - Database initialized successfully
+2025-03-25 15:38:34,086 - WARNING - Criminal database not found at criminal_database.csv
+2025-03-25 15:38:34,086 - ERROR - Fatal error loading criminal database: Criminal database file not found
+2025-03-25 15:38:34,086 - ERROR - Face recognition initialization failed: Criminal database file not found
+2025-03-25 15:38:34,086 - ERROR - Face recognition initialization failed: Face recognition system failed to initialize
+2025-03-25 15:38:40,288 - ERROR - Initialization failed: Critical face recognition initialization failed
+2025-03-25 15:38:42,873 - CRITICAL - [FATAL ERROR] Critical face recognition initialization failed
+2025-03-25 15:38:44,922 - INFO - System shutdown completed
+2025-03-25 15:44:40,882 - INFO - Database initialized successfully
+2025-03-25 15:44:40,913 - WARNING - Criminal database not found at criminal_database.csv
+2025-03-25 15:44:40,913 - ERROR - Fatal error loading criminal database: Criminal database file not found
+2025-03-25 15:44:40,913 - ERROR - Face recognition initialization failed: Criminal database file not found
+2025-03-25 15:44:40,913 - WARNING - Face recognition initialization failed: Face recognition system failed to initialize - continuing in limited mode
+2025-03-25 15:44:40,913 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 15:44:41,619 - INFO - Models loaded successfully
+2025-03-25 15:44:41,619 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 15:45:14,619 - ERROR - GUI initialization error: MainApplication.__init__() got an unexpected keyword argument 'face_recognizer'
+2025-03-25 15:53:32,053 - INFO - Database initialized successfully
+2025-03-25 15:53:32,068 - WARNING - Criminal database not found at criminal_database.csv
+2025-03-25 15:53:32,068 - ERROR - Fatal error loading criminal database: Criminal database file not found
+2025-03-25 15:53:32,068 - ERROR - Face recognition initialization failed: Criminal database file not found
+2025-03-25 15:53:32,068 - WARNING - Face recognition initialization failed: Face recognition system failed to initialize - continuing in limited mode
+2025-03-25 15:53:32,068 - INFO - Data directory: C:\Users\Fahim\NCA_FacialData
+2025-03-25 15:53:32,804 - INFO - Models loaded successfully
+2025-03-25 15:53:32,804 - INFO - Emotion detector initialized with model at emotion_model.h5
+2025-03-25 15:53:59,249 - ERROR - GUI initialization error: MainApplication.__init__() got an unexpected keyword argument 'face_recognizer'
+2025-03-25 15:54:10,483 - INFO - System shutdown completed
+2025-03-26 10:09:52,880 - INFO - 
+=== Starting NCA Facial Recognition System ===
+2025-03-26 10:09:52,894 - INFO - Initializing system at 2025-03-26 10:09:52.894910
+2025-03-26 10:09:52,895 - ERROR - Initialization failed: name 'init_db' is not defined

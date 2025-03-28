@@ -1,0 +1,9 @@
+2025-03-24 10:55:44,561 - INFO - Application started.
+2025-03-24 10:55:44,562 - INFO - Initializing database...
+2025-03-24 10:55:44,562 - ERROR - Critical error occurred: module 'database' has no attribute 'init_db'
+2025-03-24 11:22:14,637 - INFO - Application started.
+2025-03-24 11:22:14,637 - INFO - Initializing database...
+2025-03-24 11:22:14,637 - ERROR - Critical error occurred: module 'database' has no attribute 'init_db'
+2025-03-24 11:22:15,077 - INFO - Application started.
+2025-03-24 11:22:15,077 - INFO - Initializing database...
+2025-03-24 11:22:15,077 - ERROR - Critical error occurred: module 'database' has no attribute 'init_db'
